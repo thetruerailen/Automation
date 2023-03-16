@@ -39,7 +39,7 @@ The syntax of the language is specified in a JSON file. The file consists of a l
 To execute a script, use the following command:
 
 ```
-python main.py <script_file> end
+python script.py <script_file> end
 ```
 
 The <script_file> parameter specifies the path to the script file. The end parameter is used to signal the end of the script.
